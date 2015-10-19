@@ -1,7 +1,7 @@
 # Reproducible Research: Peer Assessment 1
 
 #### Loading and preprocessing the data
-This is the analysis of the step count data set supplied for the coding assignment 1 for the Reproducible Research course as part of the Data Science sertification. 
+This is the analysis of the step count data set supplied for the coding assignment 1 for the Reproducible Research course as part of the Data Science Certification. 
 
 
 ```r
